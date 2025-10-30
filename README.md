@@ -4,10 +4,3 @@ This is a webpage containing information abou the PureAlloys project I am workin
 
 - [Design of high-strength, radiopure copper–chromium alloys for rare-event searches assisted by computational thermodynamics](https://doi.org/10.1016/j.nima.2025.170970)
 
-## Blog Posts
-
-## Teaching Lab
-
-## Log
-
-## Gallery
